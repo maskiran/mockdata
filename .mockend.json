@@ -3,4 +3,5 @@
     "login": "string",
     "name": "string",
     "createdAt": "date"
+  }
 }
