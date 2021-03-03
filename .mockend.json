@@ -1,7 +1,10 @@
 {
   "User": {
     "login": "string",
-    "name": "string",
+    "name": {
+      "first": "string",
+      "last": "string"
+    },
     "createdAt": "date"
   }
 }
