@@ -1,12 +1,13 @@
 {
-  "User": {
-    "login": "string",
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
     "createdAt": "date",
-    "name": "Name[]"
+    "comments": "Comment[]"
   },
-  "Name": {
-    "first": "string",
-    "last": "string",
-    "user": "User"
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
