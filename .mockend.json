@@ -5,6 +5,7 @@
   },
   "Name": {
     "first": "string",
-    "last": "string"
+    "last": "string",
+    "user": "User"
   }
 }
