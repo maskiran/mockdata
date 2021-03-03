@@ -1,7 +1,8 @@
 {
   "User": {
     "login": "string",
-    "createdAt": "date"
+    "createdAt": "date",
+    "name": "Name"
   },
   "Name": {
     "first": "string",
