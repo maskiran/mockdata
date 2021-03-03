@@ -2,7 +2,7 @@
   "User": {
     "login": "string",
     "createdAt": "date",
-    "name": "Name"
+    "name": "Name[]"
   },
   "Name": {
     "first": "string",
