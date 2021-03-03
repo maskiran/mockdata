@@ -1,10 +1,11 @@
 {
   "User": {
     "login": "string",
-    "name": {
-      "first": "string",
-      "last": "string"
-    },
+    "name": "Name",
     "createdAt": "date"
-  }
+  },
+  "Name": {
+    "first": "string",
+    "last": "string",
+    "user": "User"
 }
